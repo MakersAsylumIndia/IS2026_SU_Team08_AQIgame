@@ -1,1 +1,1 @@
-This folder will contain all of your Arduino & other code files.
+[1_Test_CODE.txt](https://github.com/user-attachments/files/28743832/1_Test_CODE.txt)

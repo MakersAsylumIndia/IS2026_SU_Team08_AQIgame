@@ -1,4 +1,4 @@
-[DISPLAY_CODE AND POTENTIOMETER.txt](https://github.com/user-attachments/files/28745084/DISPLAY_CODE.AND.POTENTIOMETER.txt)
+[7_VERSION1_2PAGES.txt](https://github.com/user-attachments/files/28747825/7_VERSION1_2PAGES.txt)[DISPLAY_CODE AND POTENTIOMETER.txt](https://github.com/user-attachments/files/28745084/DISPLAY_CODE.AND.POTENTIOMETER.txt)
 
 
 [1_Test_CODE.txt](https://github.com/user-attachments/files/28744323/1_Test_CODE.txt)

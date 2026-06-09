@@ -15,3 +15,5 @@
 [5_Test_CODE.txt](https://github.com/user-attachments/files/28744649/5_Test_CODE.txt)
 
 
+[6_BME_ROTARY.txt](https://github.com/user-attachments/files/28745851/6_BME_ROTARY.txt)
+

@@ -1,3 +1,6 @@
+[DISPLAY_CODE AND POTENTIOMETER.txt](https://github.com/user-attachments/files/28745084/DISPLAY_CODE.AND.POTENTIOMETER.txt)
+
+
 [1_Test_CODE.txt](https://github.com/user-attachments/files/28744323/1_Test_CODE.txt)
 
 [2_Test_CODE.txt](https://github.com/user-attachments/files/28744343/2_Test_CODE.txt)
@@ -10,4 +13,5 @@
 
 
 [5_Test_CODE.txt](https://github.com/user-attachments/files/28744649/5_Test_CODE.txt)
+
 

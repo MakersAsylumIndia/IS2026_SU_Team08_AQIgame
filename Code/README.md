@@ -1,4 +1,9 @@
-[7_VERSION1_2PAGES.txt](https://github.com/user-attachments/files/28747825/7_VERSION1_2PAGES.txt)[DISPLAY_CODE AND POTENTIOMETER.txt](https://github.com/user-attachments/files/28745084/DISPLAY_CODE.AND.POTENTIOMETER.txt)
+[10_Final_Code.txt](https://github.com/user-attachments/files/28827600/10_Final_Code.txt)
+
+[7_VERSION1_2PAGES.txt](https://github.com/user-attachments/files/28747825/7_VERSION1_2PAGES.txt)
+
+
+[DISPLAY_CODE AND POTENTIOMETER.txt](https://github.com/user-attachments/files/28745084/DISPLAY_CODE.AND.POTENTIOMETER.txt)
 
 
 [1_Test_CODE.txt](https://github.com/user-attachments/files/28744323/1_Test_CODE.txt)
@@ -16,4 +21,10 @@
 
 
 [6_BME_ROTARY.txt](https://github.com/user-attachments/files/28745851/6_BME_ROTARY.txt)
+
+
+
+
+
+
 

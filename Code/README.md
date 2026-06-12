@@ -26,3 +26,7 @@
 
 
 [9_Test_CODE.txt](https://github.com/user-attachments/files/28827836/9_Test_CODE.txt)
+
+
+
+[11_OFFLINE_CODE.txt](https://github.com/user-attachments/files/28861484/11_OFFLINE_CODE.txt)
